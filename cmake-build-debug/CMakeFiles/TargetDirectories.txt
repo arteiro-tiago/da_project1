@@ -1,3 +1,0 @@
-/home/tiago/Documents/2a2s/DA/project1.2/da_project1/cmake-build-debug/CMakeFiles/da_project1.dir
-/home/tiago/Documents/2a2s/DA/project1.2/da_project1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tiago/Documents/2a2s/DA/project1.2/da_project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

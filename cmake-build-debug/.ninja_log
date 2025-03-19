@@ -1,7 +1,0 @@
-# ninja log v6
-2	709	1742413514100347338	CMakeFiles/da_project1.dir/main.cpp.o	9f734b6c86e44849
-709	825	1742413514807362828	da_project1	4be2b2a74e2d29b9
-3	893	1742413560988341231	CMakeFiles/da_project1.dir/main.cpp.o	5965537787d1ec5e
-2	1362	1742413560987341210	CMakeFiles/da_project1.dir/Files/menu.cpp.o	4d743e5fb12adc5
-2	1856	1742413560987341210	CMakeFiles/da_project1.dir/Files/builder.cpp.o	3b000a9233aace16
-1856	1986	1742413562841379159	da_project1	bf9c9bf79683a6bd
